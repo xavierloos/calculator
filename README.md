@@ -1,4 +1,4 @@
-# My Calculator
+![](https://placehold.it/1100x250/374c53/FFFFFF/?text=Calculator)
 
  
 This a simple template of a calculator with css and JS file.
